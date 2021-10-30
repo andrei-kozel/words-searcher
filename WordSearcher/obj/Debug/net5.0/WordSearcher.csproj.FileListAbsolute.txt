@@ -1,0 +1,16 @@
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.exe
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.deps.json
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.runtimeconfig.json
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.runtimeconfig.dev.json
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.dll
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\ref\WordSearcher.dll
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\bin\Debug\net5.0\WordSearcher.pdb
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.csproj.AssemblyReference.cache
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.AssemblyInfoInputs.cache
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.AssemblyInfo.cs
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.csproj.CoreCompileInputs.cache
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.dll
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\ref\WordSearcher.dll
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.pdb
+F:\Courses\campus-mölndal\Datalogi\Uppgifter\WordSearcher\WordSearcher\WordSearcher\obj\Debug\net5.0\WordSearcher.genruntimeconfig.cache
